@@ -1,0 +1,14 @@
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\bin\Debug\net6.0\Problem2.exe
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\bin\Debug\net6.0\Problem2.deps.json
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\bin\Debug\net6.0\Problem2.runtimeconfig.json
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\bin\Debug\net6.0\Problem2.dll
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\bin\Debug\net6.0\Problem2.pdb
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\Problem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\Problem2.AssemblyInfoInputs.cache
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\Problem2.AssemblyInfo.cs
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\Problem2.csproj.CoreCompileInputs.cache
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\Problem2.dll
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\ref\Problem2.dll
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\Problem2.pdb
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\Problem2.genruntimeconfig.cache
+D:\Assessments\IRIS-Tehnical-Test\Problem2\Problem2\obj\Debug\net6.0\refint\Problem2.dll
